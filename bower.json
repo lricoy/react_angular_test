@@ -1,0 +1,15 @@
+{
+  "name": "reactAngular",
+  "version": "0.0.0",
+  "authors": [
+    "Lucas Ricoy <ricoy.lucas@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
